@@ -1,0 +1,143 @@
+Sat Oct 07 2017 09:32:45 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Twitter
+Sat Oct 07 2017 09:33:00 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Spotify
+Sat Oct 07 2017 09:33:06 GMT-0600 (Mountain Daylight Time): Spotify listing for 'welcome' using number of results '5'.
+Sat Oct 07 2017 09:33:08 GMT-0600 (Mountain Daylight Time): Finished Spotify search returning user to main menu.
+Sat Oct 07 2017 09:33:12 GMT-0600 (Mountain Daylight Time): Main prompt selection:  OMDB
+Sat Oct 07 2017 09:33:15 GMT-0600 (Mountain Daylight Time): OMDB requested movie is: 'click'
+Sat Oct 07 2017 09:33:16 GMT-0600 (Mountain Daylight Time): Completed OMDB movie request, returning user to main menu.
+Sat Oct 07 2017 09:33:24 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Random File ooooOOOoooohhh
+Sat Oct 07 2017 09:33:24 GMT-0600 (Mountain Daylight Time): Random File!  OoooOooOOOOoohhhh - it's nothing too fancy.
+Sat Oct 07 2017 09:33:42 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Quit
+Sat Oct 07 2017 09:33:42 GMT-0600 (Mountain Daylight Time): Shutting down.
+Sat Oct 07 2017 09:33:46 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Twitter
+Sat Oct 07 2017 09:39:22 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Twitter
+Sat Oct 07 2017 09:40:17 GMT-0600 (Mountain Daylight Time): 
+
+=====
+Starting new session
+=====
+Sat Oct 07 2017 09:40:19 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Twitter
+Sat Oct 07 2017 09:40:37 GMT-0600 (Mountain Daylight Time): After listing Twitter chose quit.
+Sat Oct 07 2017 09:40:37 GMT-0600 (Mountain Daylight Time): Shutting down.
+Sat Oct 07 2017 09:40:40 GMT-0600 (Mountain Daylight Time): 
+
+=====
+Starting new session
+=====
+Sat Oct 07 2017 09:40:42 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Twitter
+Sat Oct 07 2017 09:41:40 GMT-0600 (Mountain Daylight Time): After listing Twitter chose quit.
+Sat Oct 07 2017 09:41:40 GMT-0600 (Mountain Daylight Time): Shutting down.
+Sat Oct 07 2017 09:41:43 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Twitter
+Sat Oct 07 2017 09:42:38 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Twitter
+Sat Oct 07 2017 09:45:15 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Spotify
+Sat Oct 07 2017 09:45:21 GMT-0600 (Mountain Daylight Time): Spotify listing for 'yesterday' using number of results '2'.
+Sat Oct 07 2017 09:45:22 GMT-0600 (Mountain Daylight Time): Finished Spotify search returning user to main menu.
+Sat Oct 07 2017 09:45:27 GMT-0600 (Mountain Daylight Time): Main prompt selection:  OMDB
+Sat Oct 07 2017 09:45:31 GMT-0600 (Mountain Daylight Time): OMDB requested movie is: 'planet of the apes'
+Sat Oct 07 2017 09:45:32 GMT-0600 (Mountain Daylight Time): Completed OMDB movie request, returning user to main menu.
+Sat Oct 07 2017 09:45:38 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Random File ooooOOOoooohhh
+Sat Oct 07 2017 09:45:38 GMT-0600 (Mountain Daylight Time): Random File!  OoooOooOOOOoohhhh - it's nothing too fancy.
+Sat Oct 07 2017 09:45:48 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Quit
+Sat Oct 07 2017 09:45:48 GMT-0600 (Mountain Daylight Time): Shutting down.
+Sat Oct 07 2017 09:45:52 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Twitter
+Sat Oct 07 2017 09:46:12 GMT-0600 (Mountain Daylight Time): 
+
+=====
+Starting new session
+=====
+Sat Oct 07 2017 09:46:12 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Twitter
+Sat Oct 07 2017 09:46:58 GMT-0600 (Mountain Daylight Time): Shutting down.
+Sat Oct 07 2017 09:46:58 GMT-0600 (Mountain Daylight Time): After listing Twitter chose quit.
+Sat Oct 07 2017 09:47:02 GMT-0600 (Mountain Daylight Time): 
+
+=====
+Starting new session
+=====
+Sat Oct 07 2017 09:47:03 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Twitter
+Sat Oct 07 2017 09:47:14 GMT-0600 (Mountain Daylight Time): After listing Twitter chose main menu.
+Sat Oct 07 2017 09:47:15 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Twitter
+Sat Oct 07 2017 09:47:36 GMT-0600 (Mountain Daylight Time): Shutting down.
+Sat Oct 07 2017 09:47:36 GMT-0600 (Mountain Daylight Time): After listing Twitter chose quit.
+Sat Oct 07 2017 09:47:39 GMT-0600 (Mountain Daylight Time): 
+
+=====
+Starting new session
+=====
+Sat Oct 07 2017 09:47:41 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Twitter
+Sat Oct 07 2017 09:49:51 GMT-0600 (Mountain Daylight Time): After listing Twitter chose quit.
+Sat Oct 07 2017 09:49:51 GMT-0600 (Mountain Daylight Time): Shutting down.
+Sat Oct 07 2017 09:49:54 GMT-0600 (Mountain Daylight Time): 
+
+=====
+Starting new session
+=====
+Sat Oct 07 2017 09:49:56 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Twitter
+Sat Oct 07 2017 09:51:22 GMT-0600 (Mountain Daylight Time): Shutting down.
+Sat Oct 07 2017 09:51:22 GMT-0600 (Mountain Daylight Time): After listing Twitter chose quit.
+Sat Oct 07 2017 09:51:24 GMT-0600 (Mountain Daylight Time): 
+
+=====
+Starting new session
+=====
+Sat Oct 07 2017 09:51:24 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Twitter
+Sat Oct 07 2017 09:52:04 GMT-0600 (Mountain Daylight Time): Shutting down.
+Sat Oct 07 2017 09:52:04 GMT-0600 (Mountain Daylight Time): After listing Twitter chose quit.
+Sat Oct 07 2017 09:52:06 GMT-0600 (Mountain Daylight Time): 
+
+=====
+Starting new session
+=====
+Sat Oct 07 2017 09:52:06 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Twitter
+Sat Oct 07 2017 09:53:11 GMT-0600 (Mountain Daylight Time): After listing Twitter chose quit.
+Sat Oct 07 2017 09:53:11 GMT-0600 (Mountain Daylight Time): Shutting down.
+Sat Oct 07 2017 09:53:13 GMT-0600 (Mountain Daylight Time): 
+
+=====
+Starting new session
+=====
+Sat Oct 07 2017 09:53:13 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Twitter
+Sat Oct 07 2017 09:53:24 GMT-0600 (Mountain Daylight Time): 
+
+=====
+Starting new session
+=====
+Sat Oct 07 2017 09:53:25 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Twitter
+Sat Oct 07 2017 09:54:32 GMT-0600 (Mountain Daylight Time): After listing Twitter chose quit.
+Sat Oct 07 2017 09:54:32 GMT-0600 (Mountain Daylight Time): Shutting down.
+Sat Oct 07 2017 09:54:34 GMT-0600 (Mountain Daylight Time): 
+
+=====
+Starting new session
+=====
+Sat Oct 07 2017 09:54:35 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Twitter
+Sat Oct 07 2017 09:56:14 GMT-0600 (Mountain Daylight Time): After listing Twitter chose quit.
+Sat Oct 07 2017 09:56:14 GMT-0600 (Mountain Daylight Time): Shutting down.
+Sat Oct 07 2017 10:00:48 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Quit
+Sat Oct 07 2017 10:00:48 GMT-0600 (Mountain Daylight Time): Shutting down.
+Sat Oct 07 2017 10:00:54 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Random File ooooOOOoooohhh
+Sat Oct 07 2017 10:00:54 GMT-0600 (Mountain Daylight Time): Random File!  OoooOooOOOOoohhhh - it's nothing too fancy.
+Sat Oct 07 2017 10:03:49 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Quit
+Sat Oct 07 2017 10:03:49 GMT-0600 (Mountain Daylight Time): Shutting down.
+Sat Oct 07 2017 10:04:38 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Quit
+Sat Oct 07 2017 10:04:38 GMT-0600 (Mountain Daylight Time): Shutting down.
+Sat Oct 07 2017 10:05:31 GMT-0600 (Mountain Daylight Time): Shutting down.
+Sat Oct 07 2017 10:05:31 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Quit
+Sat Oct 07 2017 10:05:54 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Quit
+Sat Oct 07 2017 10:05:54 GMT-0600 (Mountain Daylight Time): Shutting down.
+Sat Oct 07 2017 10:06:14 GMT-0600 (Mountain Daylight Time): Shutting down.
+Sat Oct 07 2017 10:06:14 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Quit
+Sat Oct 07 2017 10:06:24 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Quit
+Sat Oct 07 2017 10:06:24 GMT-0600 (Mountain Daylight Time): Shutting down.
+Sat Oct 07 2017 10:06:43 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Quit
+Sat Oct 07 2017 10:06:43 GMT-0600 (Mountain Daylight Time): Shutting down.
+Sat Oct 07 2017 10:07:52 GMT-0600 (Mountain Daylight Time): Main prompt selection:  Random File ooooOOOoooohhh
+Sat Oct 07 2017 10:07:52 GMT-0600 (Mountain Daylight Time): Random File!  OoooOooOOOOoohhhh - it's nothing too fancy.
+Sat Oct 07 2017 10:23:18 GMT-0600 (Mountain Daylight Time): OMDB requested movie is: 'Mr Nobody'
+Sat Oct 07 2017 10:23:18 GMT-0600 (Mountain Daylight Time): OMDB movie request was empty - using default.
+Sat Oct 07 2017 10:23:19 GMT-0600 (Mountain Daylight Time): Completed OMDB movie request, returning user to main menu.
+Sat Oct 07 2017 10:23:31 GMT-0600 (Mountain Daylight Time): Spotify listing for 'again' using number of results '5'.
+Sat Oct 07 2017 10:23:32 GMT-0600 (Mountain Daylight Time): Finished Spotify search returning user to main menu.
+Sat Oct 07 2017 10:24:05 GMT-0600 (Mountain Daylight Time): OMDB requested movie is: 'the transporter'
+Sat Oct 07 2017 10:24:06 GMT-0600 (Mountain Daylight Time): Completed OMDB movie request, returning user to main menu.
+Sat Oct 07 2017 10:24:40 GMT-0600 (Mountain Daylight Time): Shutting down.
+Sat Oct 07 2017 10:26:33 GMT-0600 (Mountain Daylight Time): Shutting down.
