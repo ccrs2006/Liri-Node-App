@@ -1,8 +1,8 @@
 # Liri-Node-App  (better than Siri)
 
-Load liri.js on you terminal
-Follow the options on the screen
-Use arrows to select
+Load liri.js on you terminal  
+Follow the options on the screen  
+Use arrows to select  
 
 ```
 * Search tweets,
