@@ -1,16 +1,23 @@
 # Liri-Node-App  (better than Siri)
 
+Load liri.js on you terminal
+Follow the options on the screen
+Use arrows to select
 
-follow the options on the screen
+```
+* Search tweets,
 
+* Search spotify songs,
 
--Search tweets,
+* Search movies,
 
--Search spotify songs,
+* Do Random things.
 
--Search movies,
+* And quit(if you want to).
+```
 
--And do Random things.
+ENJOY!
+
 
 ![2017-10-17 at 13-02-31_1](https://user-images.githubusercontent.com/28827821/31686258-f1e19d64-b342-11e7-93c6-8652fa5435e5.gif)
 
